@@ -36,7 +36,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![image](https://user-images.githubusercontent.com/16460460/159432060-b24beefa-9995-4c6a-b470-9d0f5a625b00.png)
 
 
 ### Built With
@@ -44,6 +44,7 @@
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 - [Tailwind](https://tailwindcss.com/)
 - [Axios](https://www.npmjs.com/package/axios)
 
